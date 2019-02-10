@@ -1,6 +1,6 @@
 # Labirints - searching space
 
-Preiskovanje prostorov ter najti najbolj optimalno pot od začetne do končne točke.
+Searching space, find optimal way from start to end point.
 
 Algorithms:
 - A*
